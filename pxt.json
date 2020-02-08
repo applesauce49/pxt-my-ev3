@@ -1,0 +1,21 @@
+{
+    "name": "pxt-my-ev3",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "ev3": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "ev3"
+    ],
+    "preferredEditor": "blocksprj"
+}
